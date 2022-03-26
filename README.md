@@ -1,4 +1,2 @@
 # DatabaseTesting
-JPA/Hibernate, HyperSQL testing
-
-JPA/Jibernate w/HyperSQL test
+Fun with JPA/Hibernate, HyperSQL
